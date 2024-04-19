@@ -1,5 +1,7 @@
 # athletic_sales_analysis
 
+code is in athletic_sales_analysis_starter_code
+
 ## Requirements
 
 ## Combine and Clean the Data (15 points)
